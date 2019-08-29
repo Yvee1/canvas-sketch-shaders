@@ -1,0 +1,17 @@
+{
+  "name": "shaders",
+  "version": "1.0.0",
+  "description": "",
+  "main": "blob.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "canvas-sketch": "^0.6.1",
+    "canvas-sketch-util": "^1.8.0",
+    "glsl-noise": "0.0.0"
+  }
+}
